@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.h12 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  line-height: 2;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.profil-description{
+width: 30%;
+margin: auto;
+}
+.div1 {
+  font-weight: normal;
+  color: #11999E;
+}
+
+.skills-img {
+  width: 25%;
+  float: left;
+  margin-right:30px;
+}
+
+.chillies-img {
+  width: 25%;
+  float: right;
+  margin-left:30px;
+}
+hr{
+  border-style: dotted none none;
+     border-color: lightgray;
+     border-width:9px;
+     height: 0px;
+     width:8%;
+}
+
+.top {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.middle {
+  margin: 50px 0;
+}
+
+.bottom {
+  background-color: #66BFBF;
+  height:170px;
+  margin-top:50px;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.img-profil {
+  width: 12%;
+
+}
+.btn{
+  background-color: #66BFBF;
+ border: none;
+ color: white;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer;
+ border-radius: 8px;
+}
+.copy-rights{
+  color: #EAF6F6;
+  text-align: center;
+  margin-top: 60px;
+  font-size:10px;
+}
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+  position:relative;
+  display:inline-block;
+  margin-left:50px;
+  margin-top: 40px;
+  color: #11999E;
+}
